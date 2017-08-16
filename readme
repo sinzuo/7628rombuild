@@ -1,0 +1,9 @@
+
+
+Home router of GuangXi
+
+Usage:
+     ./merge_flash.sh <firmware> <8|16>
+
+ex:
+     ./merge_flash.sh mt7628-16M-v2.1.14-2017-8-16.bin 16  
